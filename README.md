@@ -2,93 +2,116 @@
 
 # 👋 Hi, I'm Shubham Garg
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Future+Data+Engineer;Building+Production-Ready+Data+Pipelines;Apache+Kafka+%7C+Apache+Spark+%7C+Airflow;Python+%7C+Docker+%7C+SQL;Always+Learning+Something+New" />
+<img src="https://github.com/aashubhamgarg2005-commits.png" width="180" style="border-radius:50%;" alt="Shubham Garg"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Future+Data+Engineer;Building+Production-Ready+Data+Pipelines;Apache+Kafka+%7C+Apache+Spark+%7C+Apache+Airflow;Python+%7C+Docker+%7C+PostgreSQL;Always+Learning+Something+New" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=aashubhamgarg2005-commits&style=for-the-badge&color=0e75b6" />
-<img src="https://img.shields.io/github/followers/aashubhamgarg2005-commits?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/aashubhamgarg2005-commits?affiliations=OWNER&style=for-the-badge" />
+
+<img src="https://komarev.com/ghpvc/?username=aashubhamgarg2005-commits&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/aashubhamgarg2005-commits?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/aashubhamgarg2005-commits?style=for-the-badge"/>
+
 </p>
 
-### 🚀 Aspiring Data Engineer | B.Tech CSE Student | Open Source Learner
+<p>
 
----
+<a href="https://github.com/aashubhamgarg2005-commits">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-*"Turning raw data into reliable, scalable data pipelines."*
+<a href="https://linkedin.com/in/shubham-garg-9465b836a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:aashubhamgarg2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+### 🚀 Future Data Engineer | B.Tech CSE Student | Open Source Learner
+
+*"Turning raw data into scalable, reliable and production-ready data pipelines."*
 
 </div>
+
+---
 
 # 💫 About Me
 
 ```yaml
 Name: Shubham Garg
 
+Role:
+  Future Data Engineer
+
 Education:
-  - B.Tech Computer Science Engineering
+  B.Tech Computer Science Engineering
 
-Current Focus:
+Focus:
   - Data Engineering
-  - Real-Time Data Pipelines
-  - Big Data Technologies
+  - Big Data
+  - Cloud Computing
+  - Distributed Systems
 
-Learning:
+Currently Learning:
   - Apache Kafka
   - Apache Spark
   - Apache Airflow
-  - Data Lakes
+  - PostgreSQL
+  - AWS
   - Docker
   - Stream Processing
 
 Goal:
   Become an Industry Ready Data Engineer
 
-Currently Building:
-  Production-style Data Engineering Projects
+Current Project:
+  Real-Time Stock Market Data Pipeline
 ```
 
 ---
 
 # 🚀 Featured Project
 
-## 📈 Real-Time Stock Market Data Pipeline
+# 📈 Real-Time Stock Market Data Pipeline
 
 ### Architecture
 
-```text
-                  📡 Stock Market API
-                           │
-                           ▼
-               Apache Kafka (KRaft Mode)
-                           │
-                           ▼
-             Spark Structured Streaming
-                           │
-                           ▼
-            Data Cleaning & Transformation
-                           │
-                           ▼
-                 MinIO Data Lake (S3)
-                           │
-                           ▼
-              Apache Airflow Orchestration
-                           │
-                           ▼
-                 Streamlit Dashboard
-                           │
-                           ▼
-                 Business Insights
+```mermaid
+flowchart LR
+
+A[Stock Market API]
+B[Apache Kafka]
+C[Spark Structured Streaming]
+D[Data Cleaning]
+E[MinIO Data Lake]
+F[Apache Airflow]
+G[Streamlit Dashboard]
+
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
 ```
 
-### Features
+---
 
-- ✅ Real-Time Streaming
-- ✅ Kafka Producers & Consumers
+## Features
+
+- ✅ Real-Time Data Streaming
+- ✅ Kafka Producer & Consumer
 - ✅ Spark Structured Streaming
+- ✅ ETL / ELT Pipeline
 - ✅ Data Validation
-- ✅ ETL / ELT Processing
-- ✅ Data Lake Storage
-- ✅ Airflow Scheduling
-- ✅ Interactive Dashboard
+- ✅ MinIO Data Lake Storage
+- ✅ Airflow Workflow Automation
+- ✅ Interactive Streamlit Dashboard
 - ✅ Dockerized Infrastructure
 
 ---
@@ -99,7 +122,17 @@ Currently Building:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
 
 </p>
 
@@ -135,12 +168,25 @@ Currently Building:
 
 ---
 
+# 💼 Core Skills
+
+- Data Engineering
+- ETL / ELT Pipelines
+- SQL Optimization
+- Stream Processing
+- Docker
+- Data Modeling
+- REST APIs
+- Distributed Systems
+
+---
+
 # 📚 Currently Learning
 
 | Technology | Progress |
 |------------|----------|
 | Python | ██████████ 100% |
-| SQL | ██████████ 100% |
+| PostgreSQL | ██████████ 100% |
 | Docker | █████████░ 90% |
 | Apache Kafka | ████████░░ 80% |
 | Apache Spark | ██████░░░░ 60% |
@@ -191,22 +237,32 @@ Currently Building:
 
 ---
 
+# 📜 Certifications
+
+- ✅ Python Programming
+- ✅ SQL Fundamentals
+- 🔄 Apache Kafka (In Progress)
+- 🔄 Apache Spark (In Progress)
+- 🔄 Apache Airflow (In Progress)
+
+---
+
 # 🚀 Roadmap
 
 ```text
-✔ Python
+✅ Python
 
-✔ SQL
+✅ SQL
 
-✔ Docker
+✅ PostgreSQL
 
-⬜ Apache Kafka
+✅ Docker
 
-⬜ Apache Spark
+🟨 Apache Kafka
 
-⬜ Apache Airflow
+🟨 Apache Spark
 
-⬜ Data Lake
+🟨 Apache Airflow
 
 ⬜ AWS
 
@@ -218,7 +274,7 @@ Currently Building:
 
 ⬜ CI/CD
 
-⬜ Production Data Pipelines
+⬜ Production Data Engineering
 ```
 
 ---
@@ -227,7 +283,7 @@ Currently Building:
 
 ⭐ Real-Time Stock Market Data Pipeline
 
-⭐ Agricultural Data Pipeline
+⭐ Weather Alert System
 
 ⭐ Kafka Learning
 
@@ -241,13 +297,24 @@ Currently Building:
 
 # 🌱 2026 Goals
 
-- Build 10+ Data Engineering Projects
-- Learn Apache Kafka Deeply
+- Build 10+ Production Ready Data Engineering Projects
+- Master Apache Kafka
 - Master Spark Structured Streaming
 - Learn AWS Data Services
 - Deploy Projects on Cloud
 - Contribute to Open Source
-- Publish Technical Blogs
+- Write Technical Blogs
+- Build End-to-End Data Pipelines
+
+---
+
+# 💼 Open To
+
+- Data Engineering Internship
+- Backend Development Internship
+- Open Source Collaboration
+- Data Engineering Projects
+- Cloud Projects
 
 ---
 
@@ -293,29 +360,21 @@ Other           ██                    3%
 
 <div align="center">
 
-## 💡 Quote of the Day
+## 💡 Quote
 
-### *"Data is the new oil, but pipelines are the refineries."*
+> **"Great data engineering isn't about moving data—it's about delivering trusted data at the right time."**
 
----
+⭐ If you like my work, consider giving my repositories a **Star**.
 
-⭐ **If you like my projects, consider giving them a Star!**
-
-🚀 Thanks for visiting my profile.
+🚀 Thanks for visiting my profile!
 
 </div>
 
 <!--
-**aashubhamgarg2005-commits/aashubhamgarg2005-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Future Improvements
+- Add project screenshots
+- Add snake contribution animation
+- Add GitHub Profile Summary Cards
+- Add blog section
+- Add portfolio website
 -->
