@@ -1,22 +1,27 @@
 # 👋 Hi, I'm Shubham Garg
 
+> **Professional Data Engineer Portfolio (Starter Template)**
+
 <table>
 <tr>
-<td width="28%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
-<img src="https://github.com/aashubhamgarg2005-commits.png" width="180" style="border-radius:50%;" />
+<img src="https://github.com/aashubhamgarg2005-commits.png" width="180" alt="Profile"/>
 
-## Future Data Engineer
+## Shubham Garg
+**Future Data Engineer**
 
-Passionate about building scalable data pipelines, real-time streaming systems, and cloud-ready ETL workflows.
+Building scalable, production-ready data pipelines with Python, Kafka, Spark, Airflow and PostgreSQL.
 
-### 📫 Contact
+### 📬 Connect
 
-- GitHub: https://github.com/aashubhamgarg2005-commits
-- LinkedIn: https://linkedin.com/in/shubham-garg-9465b836a
-- Email: aashubhamgarg2005@gmail.com
+<p>
+<a href="https://github.com/aashubhamgarg2005-commits"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href="https://linkedin.com/in/shubham-garg-9465b836a"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="mailto:aashubhamgarg2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
 
-### 💡 Core Skills
+### 💻 Skills
 
 - Python
 - PostgreSQL
@@ -24,64 +29,48 @@ Passionate about building scalable data pipelines, real-time streaming systems, 
 - Apache Kafka
 - Apache Spark
 - Apache Airflow
-- ETL Pipelines
+- MinIO
+- Streamlit
 
 </td>
 
-<td width="72%" valign="top">
+<td width="70%" valign="top">
 
 # 🚀 About Me
 
-B.Tech CSE student focused on Data Engineering and production-ready data pipelines.
+B.Tech CSE student focused on Data Engineering and Real-Time Data Pipelines.
 
 ## 📈 Featured Project
 
 ### Real-Time Stock Market Data Pipeline
 
-```text
-Stock API
-   │
-Kafka
-   │
-Spark Streaming
-   │
-Data Processing
-   │
-MinIO
-   │
-Airflow
-   │
-Streamlit Dashboard
+```mermaid
+flowchart LR
+A[Stock API]-->B[Kafka]
+B-->C[Spark]
+C-->D[Transform]
+D-->E[MinIO]
+E-->F[Airflow]
+F-->G[Dashboard]
 ```
 
-### Tech Stack
+## 🛠 Tech Stack
 
-Python • PostgreSQL • Docker • Kafka • Spark • Airflow • MinIO • Streamlit • Git • Linux
-
-### GitHub Stats
+<p>
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,vscode,linux"/>
+</p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=aashubhamgarg2005-commits&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashubhamgarg2005-commits&layout=compact&theme=tokyonight)
 
-### Roadmap
+![Streak](https://streak-stats.demolab.com?user=aashubhamgarg2005-commits&theme=tokyonight)
 
-- ✅ Python
-- ✅ SQL
-- ✅ PostgreSQL
-- ✅ Docker
-- 🟨 Kafka
-- 🟨 Spark
-- 🟨 Airflow
-- ⬜ AWS
-- ⬜ Kubernetes
-
-### 2026 Goals
+## 🎯 Goals
 
 - Build 10+ Data Engineering Projects
-- Master Kafka
-- Learn Spark Streaming
-- Deploy on AWS
+- Learn AWS
+- Master Kafka & Spark
 - Contribute to Open Source
 
 </td>
