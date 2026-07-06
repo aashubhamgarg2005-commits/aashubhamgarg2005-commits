@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham Garg
 
-> **Professional Data Engineer Portfolio (Starter Template)**
+> **<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Transforming+Raw+Data+Into+Real-Time+Intelligence;Building+Scalable+Data+Pipelines;Data+Engineering+%7C+Big+Data+%7C+Cloud;Python+%7C+Kafka+%7C+Spark+%7C+Airflow;Always+Learning+%26+Building+🚀" />**
 
 <table>
 <tr>
